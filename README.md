@@ -1,4 +1,4 @@
-# py_stand_up_app
+# Python Stand Up App - PyStandUpApp
 
 ### Requirements ###
 
