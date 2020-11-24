@@ -38,9 +38,3 @@ class Exercise:
                 print(f"Exercise finished {datetime.now()}")
                 print(f"Working time = {datetime.now() - self.START_TIME}")
                 break
-
-
-if __name__ == "__main__":
-    e = Exercise()
-    e.run()
-
